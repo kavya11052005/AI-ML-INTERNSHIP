@@ -40,6 +40,6 @@ ____________________________________
 
 Cleaning and transforming the data helps the model learn better and make more accurate predictions.
 
-[output.pdf](https://github.com/user-attachments/files/20444229/output.pdf)
 
+[Uploading output (2).pdf…]()
 
