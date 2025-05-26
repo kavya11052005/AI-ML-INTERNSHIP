@@ -29,9 +29,13 @@ ____________________________________
 **Tools Used
 
 ->Python
+
 ->Pandas
+
 ->Numpy
+
 ->Matplotlib/Seaborn
+
 ->scikit-learn
 
 Cleaning and transforming the data helps the model learn better and make more accurate predictions.
